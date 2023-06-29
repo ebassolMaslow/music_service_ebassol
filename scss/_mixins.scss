@@ -1,0 +1,21 @@
+@mixin button {
+
+    .mix-btn {
+        width: 230px;
+        height: 65px;
+        border-radius: 10px;
+        background-color: #12DB74;
+        display: flex;
+        line-height: 65px;
+    }
+
+    .mix-btn-img {
+        padding: 16px 16.7px 0 19px;
+    }
+
+    .mix-btn-text {
+        font-size: 23px;
+        color: #454340;
+        font-weight: 500;
+    }
+}
