@@ -5,13 +5,13 @@
 Пользователи могут создавать плейлисты, наслаждаться музыкой со всего мира, 
 следить за своими любимыми артистами.
 
-##Usage
+## Usage
 
 * mdless README.md
 OR
 * cat README.md | mdless
 * 
-##Functional
+## Functional
 
 •	Регистрация пользователей
 •	Авторизация пользователей вместе с капчей
@@ -20,7 +20,7 @@ OR
 •	Вывод имени пользователя в профиле и его почты
 •	Слайдеры
 
-##instalition
+## instalition
 
 1. Склонируйте репозиторий: git clone https://github.com/username/repo.git
 2. Перейдите в директорию проекта: cd repo
@@ -29,17 +29,17 @@ OR
 5. Установите зависимости для бэкенда: npm install
 6. Запустите проект: npm start
 
-##Contributors
+## Contributors
 
 Масликов Александр- разработчик фронтенда
 Масликов Александр - разработчик бэкенда
 Масликов Александр - дизайнер
 
-##License
+## License
 
 MIT License
 
-##Contacts##
+## Contacts
 
 Email: isip_a.yu.maslikov@mpt.ru
 Телефон: +7 903 537 12 81
